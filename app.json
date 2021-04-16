@@ -1,0 +1,19 @@
+{
+    "name": "Sk Base",
+    "description": "Credit/Debit card generator using BIN",
+    "keywords": [
+        "CC gen",
+        "Credit/Debit Card",
+        "Generator"
+    ],
+    
+    "repository": "https://github.com/gen-afk/basesk",
+    "success_url": "/",
+    "formation": {
+        "web": {
+            "quantity": 1,
+            "size": "free"
+        }
+    },
+    "image": "heroku/php"
+}
